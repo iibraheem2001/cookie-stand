@@ -1,3 +1,34 @@
+body {
+    background-color: beige;
+}
+head {
+    border-style: solid;
+}
+h1 {
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-shadow: chocolate;
+    text-indent: 10px;
+    text-decoration: cyan;
+}
+nav {
+    text-align: center;
+    background-color: rgb(226, 195, 156);
+    
+}
+img {
+    text-align: center;
+    width: 800px;
+    image-rendering: crisp-edges;
+    image-orientation: flip;
+    padding: 50px;
+}
+
+h2 {
+    background: rgb(219, 197, 177);
+    text-align: center;
+}
+
 table {
 
     border-style: solid;
@@ -7,4 +38,15 @@ table {
 }
 table td {
     border-style: solid;
+}
+p {
+    text-align: center;
+    font-size: large;
+
+}
+footer {
+    background: salmon;
+    size: 400px;
+    font-size: large;
+
 }
